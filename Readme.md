@@ -55,3 +55,5 @@ ___
     * Single line
     * Default Variable
     * Annonymous Function
+    * Higher Order Function
+      * >Function that takes input as one or more function and returns result of that function is called higher order function
