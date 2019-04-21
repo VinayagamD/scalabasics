@@ -1,4 +1,4 @@
-package demo
+package demo.functions
 
 object Functions {
 
