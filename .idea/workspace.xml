@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2410afec-5dae-42e2-a9ac-6d4b9cabc364" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/PartiallyAppliedFunction.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/Closures.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -83,11 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/demo/PartiallyAppliedFunction.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Closures.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -105,6 +113,7 @@
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/HigherOrderFunction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/PartiallyAppliedFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/demo/Closures.scala" />
       </list>
     </option>
   </component>
@@ -182,7 +191,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PartiallyAppliedFunction">
+  <component name="RunManager" selected="Application.Closures">
+    <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Closures" />
+      <module name="ScalaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="demo.Functions" />
       <module name="ScalaBasics" />
@@ -236,9 +258,11 @@
       <item itemvalue="Application.Functions" />
       <item itemvalue="Application.HigherOrderFunction" />
       <item itemvalue="Application.PartiallyAppliedFunction" />
+      <item itemvalue="Application.Closures" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Closures" />
         <item itemvalue="Application.PartiallyAppliedFunction" />
         <item itemvalue="Application.HigherOrderFunction" />
         <item itemvalue="Application.Functions" />
@@ -288,12 +312,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555858485339</updated>
       <workItem from="1555858489109" duration="676000" />
-      <workItem from="1555865299463" duration="2989000" />
+      <workItem from="1555865299463" duration="3233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3665000" />
+    <option name="totallyTimeSpent" value="3909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -389,6 +413,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Closures.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
