@@ -59,3 +59,7 @@ ___
       * >Function that takes input as one or more function and returns result of that function is called higher order function
     * Partilally Applied Function
       * > Creating Variable other function with partial params filled and some params with _ for further usage
+    * Closures
+      * > It is a function which uses one or more variables declared outside the function
+    * Currying
+      * > It is a technique of transforming fucntion that takes multiple arguments into a function that takes a single function
