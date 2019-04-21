@@ -1,0 +1,42 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(D:\WorkSpace\Scala\HelloScala\src\main\scala\demo\Functions.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(demo.Functions, demo.Functions.Math)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated classes: Set(demo.Functions, demo.Functions.Math)
+[debug] All initially invalidated sources:Set(D:\WorkSpace\Scala\HelloScala\src\main\scala\demo\Functions.scala)
+[info] Compiling 1 Scala source to D:\WorkSpace\Scala\HelloScala\target\scala-2.12\classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.2.5:compile for Scala 2.12.8
+[debug] [zinc] Running cached compiler 545c35fd for Scala compiler version 2.12.8
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-bootclasspath
+[debug] 	C:\Program Files\Java\jdk1.8.0_202\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_202\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_202\jre\classes;C:\Users\Dell\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.8.jar
+[debug] 	-classpath
+[debug] 	D:\WorkSpace\Scala\HelloScala\target\scala-2.12\classes
+[debug] Scala compilation took 0.415686 s
+[info] Done compiling.
+[debug] Invalidating (transitively) by inheritance from demo.Functions.Math...
+[debug] Initial set of included nodes: Set(demo.Functions.Math)
+[debug] Invalidated by transitive inheritance dependency: Set(demo.Functions.Math)
+[debug] Change NamesChange(demo.Functions.Math,ModifiedNames(changes = UsedName(+,[Default]), UsedName(add$default$2,[Default]), UsedName(add,[Default]), UsedName(add$default$1,[Default]), UsedName(**,[Default]))) invalidates 1 classes due to The demo.Functions.Math has the following regular definitions changed:
+[debug] 	UsedName(+,[Default]), UsedName(add$default$2,[Default]), UsedName(add,[Default]), UsedName(add$default$1,[Default]), UsedName(**,[Default]).
+[debug] 	> by transitive inheritance: Set(demo.Functions.Math)
+[debug] 	> 
+[debug] 	> 
+[debug]         
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated classes after taking into account (previously) recompiled classes:Set()

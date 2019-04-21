@@ -12,6 +12,9 @@ object Functions {
     println(Math ** 6)
     println(Math.add())
     println(Math.add(60))
+
+    var add = (x:Int, y:Int)=>x+y
+    println(add(300,400))
   }
 
   object Math {
