@@ -1,4 +1,4 @@
-package demo
+package demo.basics.base_concepts
 
 object ControlStatement1 {
 

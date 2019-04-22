@@ -2,16 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2410afec-5dae-42e2-a9ac-6d4b9cabc364" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/functions/Closures.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/functions/Currying.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/functions/Functions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/functions/HigherOrderFunction.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/functions/PartiallyAppliedFunction.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/Closures.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/Currying.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/Functions.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/HigherOrderFunction.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/PartiallyAppliedFunction.scala" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/base_class/Strings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/base_concepts/ControlStatement1.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/ControlStatement1.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/functions/Closures.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/functions/Closures.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/functions/Currying.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/functions/Currying.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/functions/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/functions/Functions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/functions/HigherOrderFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/functions/HigherOrderFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/demo/functions/PartiallyAppliedFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/functions/PartiallyAppliedFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,7 +79,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/ControlStatement1.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/Closures.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -73,7 +88,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/functions/Closures.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/Currying.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -82,7 +97,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/functions/Currying.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/Functions.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -91,7 +106,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/functions/Functions.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/HigherOrderFunction.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -100,7 +115,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/functions/HigherOrderFunction.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/PartiallyAppliedFunction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/base_concepts/ControlStatement1.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -109,15 +133,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/functions/PartiallyAppliedFunction.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/base_class/Strings.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -135,6 +166,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/demo/functions/Closures.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/functions/Currying.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/functions/PartiallyAppliedFunction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/demo/basics/base_concepts/ControlStatement1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/demo/basics/base_class/Strings.scala" />
       </list>
     </option>
   </component>
@@ -147,6 +180,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -184,6 +218,15 @@
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ScalaBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -212,13 +255,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Currying">
+  <component name="RunManager" selected="Application.Strings">
     <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.functions.Closures" />
+      <option name="MAIN_CLASS_NAME" value="demo.basics.functions.Closures" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.functions.*" />
+          <option name="PATTERN" value="demo.basics.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,24 +270,11 @@
       </method>
     </configuration>
     <configuration name="Currying" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.functions.Currying" />
+      <option name="MAIN_CLASS_NAME" value="demo.basics.functions.Currying" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.functions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.functions.Functions" />
-      <module name="ScalaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.functions.*" />
+          <option name="PATTERN" value="demo.basics.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +283,11 @@
       </method>
     </configuration>
     <configuration name="HigherOrderFunction" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.functions.HigherOrderFunction" />
+      <option name="MAIN_CLASS_NAME" value="demo.basics.functions.HigherOrderFunction" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.functions.*" />
+          <option name="PATTERN" value="demo.basics.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,11 +296,24 @@
       </method>
     </configuration>
     <configuration name="PartiallyAppliedFunction" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.functions.PartiallyAppliedFunction" />
+      <option name="MAIN_CLASS_NAME" value="demo.basics.functions.PartiallyAppliedFunction" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.functions.*" />
+          <option name="PATTERN" value="demo.basics.functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.basics.base_class.Strings" />
+      <module name="ScalaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.basics.base_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,20 +331,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Functions" />
       <item itemvalue="Application.HigherOrderFunction" />
       <item itemvalue="Application.PartiallyAppliedFunction" />
       <item itemvalue="Application.Closures" />
-      <item itemvalue="Scala Console.ScalaBasics" />
       <item itemvalue="Application.Currying" />
+      <item itemvalue="Scala Console.ScalaBasics" />
+      <item itemvalue="Application.Strings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Currying" />
         <item itemvalue="Application.Closures" />
         <item itemvalue="Application.PartiallyAppliedFunction" />
         <item itemvalue="Application.HigherOrderFunction" />
-        <item itemvalue="Application.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -349,17 +392,19 @@
       <updated>1555858485339</updated>
       <workItem from="1555858489109" duration="676000" />
       <workItem from="1555865299463" duration="4092000" />
-      <workItem from="1555874982329" duration="500000" />
+      <workItem from="1555874982329" duration="613000" />
+      <workItem from="1555905227988" duration="306000" />
+      <workItem from="1555943392272" duration="1514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5041000" />
+    <option name="totallyTimeSpent" value="7201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -369,14 +414,14 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.329429" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.329429" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329429" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
@@ -440,17 +485,15 @@
     </option>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Functions.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/HigherOrderFunction.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/PartiallyAppliedFunction.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Closures.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Currying.scala" />
     <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Functions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -478,31 +521,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/HigherOrderFunction.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/Closures.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/PartiallyAppliedFunction.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/Currying.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Closures.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/Functions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Currying.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/HigherOrderFunction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/functions/PartiallyAppliedFunction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/base_concepts/ControlStatement1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/base_class/Strings.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-package demo.functions
+package demo.basics.functions
 
 object Closures {
 

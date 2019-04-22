@@ -63,3 +63,8 @@ ___
       * > It is a function which uses one or more variables declared outside the function
     * Currying
       * > It is a technique of transforming fucntion that takes multiple arguments into a function that takes a single function
+  * Strings
+    * length()
+    * concat()
+    * str + str
+    * format()
