@@ -86,3 +86,18 @@ ___
       * .max
       * .foreach
       * <-
+    * Sets
+      * Set()
+      * mySet(check value exists)
+      * +/.+
+      * .head
+      * .tail
+      * .isEmpty
+      * ++/.++
+      * .& / &
+      * .intersect/intersect
+      * max/.max
+      * min/.min
+      * foreach
+      * <-
+    * Maps
