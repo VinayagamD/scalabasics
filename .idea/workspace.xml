@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2410afec-5dae-42e2-a9ac-6d4b9cabc364" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/collections/MyArrays.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/collections/Lists.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,19 +29,10 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="204">
-                <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <first_editor relative-caret-position="517">
+                <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Demo.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -108,11 +100,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/MyArrays.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+            <state relative-caret-position="308">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/Lists.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -135,7 +136,6 @@
       <list>
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/Functions.scala" />
-        <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/HigherOrderFunction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/PartiallyAppliedFunction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/Closures.scala" />
@@ -146,6 +146,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/demo/basics/base_concepts/ControlStatement1.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/basics/base_class/Strings.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/basics/collections/MyArrays.scala" />
+        <option value="$PROJECT_DIR$/Readme.md" />
+        <option value="$PROJECT_DIR$/src/main/scala/demo/basics/collections/Lists.scala" />
       </list>
     </option>
   </component>
@@ -162,7 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,7 +221,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyArrays">
+  <component name="RunManager" selected="Application.Lists">
     <configuration name="Closures" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="demo.basics.functions.Closures" />
       <module name="ScalaBasics" />
@@ -270,8 +272,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyArrays" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.basics.collections.MyArrays" />
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.basics.collections.Lists" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
@@ -283,12 +285,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PartiallyAppliedFunction" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.basics.functions.PartiallyAppliedFunction" />
+    <configuration name="MyArrays" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.basics.collections.MyArrays" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.basics.functions.*" />
+          <option name="PATTERN" value="demo.basics.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,20 +321,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PartiallyAppliedFunction" />
       <item itemvalue="Application.Closures" />
       <item itemvalue="Application.Currying" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.MyArrays" />
       <item itemvalue="Scala Console.ScalaBasics" />
+      <item itemvalue="Application.Lists" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lists" />
         <item itemvalue="Application.MyArrays" />
         <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Currying" />
         <item itemvalue="Application.Closures" />
-        <item itemvalue="Application.PartiallyAppliedFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -383,11 +385,12 @@
       <workItem from="1555874982329" duration="613000" />
       <workItem from="1555905227988" duration="306000" />
       <workItem from="1555943392272" duration="3476000" />
+      <workItem from="1556075227660" duration="1010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9163000" />
+    <option name="totallyTimeSpent" value="10173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -403,7 +406,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -486,24 +489,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="204">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/ControlStatement1.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/package.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/demo/Demo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/ControlStatement1.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -552,9 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/package.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/base_class/Strings.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -562,10 +547,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="517">
+            <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/MyArrays.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+        <state relative-caret-position="308">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/Lists.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>

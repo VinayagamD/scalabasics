@@ -68,9 +68,21 @@ ___
     * concat()
     * str + str
     * format()
-  * Array
-    * for (a <- arr)
-    * .foreach()
-    * .to
-    * .length
-    * .concat
+  * Collections
+    * Array
+      * for (a <- arr)
+      * .foreach()
+      * .to
+      * .length
+      * .concat
+    * List
+      * List()
+      * List[Generics]
+      * .head
+      * .tail
+      * .isEmpty
+      * .reverse
+      * .fill(_no of times_)(_value_)
+      * .max
+      * .foreach
+      * <-
