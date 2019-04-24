@@ -68,3 +68,9 @@ ___
     * concat()
     * str + str
     * format()
+  * Array
+    * for (a <- arr)
+    * .foreach()
+    * .to
+    * .length
+    * .concat
