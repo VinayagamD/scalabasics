@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2410afec-5dae-42e2-a9ac-6d4b9cabc364" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/collections/Sets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/collections/Maps.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-scalabasics$sources-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,11 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/Sets.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="221">
               <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/Maps.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -119,6 +114,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/demo/basics/collections/Lists.scala" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/basics/collections/Sets.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/demo/basics/collections/Maps.scala" />
       </list>
     </option>
   </component>
@@ -142,11 +138,6 @@
             <path>
               <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
               <item name="ScalaBasics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
@@ -193,17 +184,6 @@
               <item name="basics" type="462c0819:PsiDirectoryNode" />
               <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ScalaBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ScalaBasics" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="scala-2.12" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -232,13 +212,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sets">
-    <configuration name="Currying" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.basics.functions.Currying" />
+  <component name="RunManager" selected="Application.Maps">
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.basics.collections.Lists" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo.basics.functions.*" />
+          <option name="PATTERN" value="demo.basics.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,8 +226,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.basics.collections.Lists" />
+    <configuration name="Maps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.basics.collections.Maps" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
@@ -308,20 +288,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Currying" />
       <item itemvalue="Application.Strings" />
       <item itemvalue="Application.MyArrays" />
       <item itemvalue="Application.Lists" />
       <item itemvalue="Scala Console.ScalaBasics" />
       <item itemvalue="Application.Sets" />
+      <item itemvalue="Application.Maps" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maps" />
         <item itemvalue="Application.Sets" />
         <item itemvalue="Application.Lists" />
         <item itemvalue="Application.MyArrays" />
         <item itemvalue="Application.Strings" />
-        <item itemvalue="Application.Currying" />
       </list>
     </recent_temporary>
   </component>
@@ -373,12 +353,12 @@
       <workItem from="1555905227988" duration="306000" />
       <workItem from="1555943392272" duration="3476000" />
       <workItem from="1556075227660" duration="2476000" />
-      <workItem from="1556128501379" duration="1947000" />
+      <workItem from="1556128501379" duration="3088000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13586000" />
+    <option name="totallyTimeSpent" value="14727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -571,8 +551,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/Sets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="221">
           <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/collections/Maps.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>

@@ -101,3 +101,11 @@ ___
       * foreach
       * <-
     * Maps
+      * Map()
+      * myMap(key)
+      * .keys
+      * .values
+      * .isEmpty
+      * .contains
+      * .++/++
+      * .size
