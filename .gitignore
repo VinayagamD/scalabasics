@@ -1,0 +1,4 @@
+#Ignore All Classes
+target/scala-2.12/classes/demo/basics/collections/*.class
+# Ignore Target Folder
+**/target
