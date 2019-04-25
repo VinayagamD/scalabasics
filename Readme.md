@@ -114,3 +114,17 @@ ___
     * Tuple[n](1 .. n) _n -> No of Element_
     * tuples._p _p-> Position of the Element_
     * .productIterator
+  * Options
+    * None
+    * Some
+    * .get
+    * .getOrELse
+    * .isEmpty
+    * .find -> retuns Some / None -> use .get to get a value
+    * .isEmpty
+  * Higher Order Methods
+    * .map
+    * .mapValues
+    * .flatten
+    * .flatmap
+    * .filter
