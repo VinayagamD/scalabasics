@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2410afec-5dae-42e2-a9ac-6d4b9cabc364" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderFn.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderMethodsTwo.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/scalabasics$sources/0.1/resolved.xml.xml" afterDir="false" />
@@ -115,11 +115,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderFn.scala">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderMethods.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderMethodsTwo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -160,6 +169,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/demo/basics/Tuples.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/basics/Options.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderFn.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderMethods.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderMethodsTwo.scala" />
       </list>
     </option>
   </component>
@@ -235,6 +246,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="demo.basics" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -247,9 +263,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HigherOrderFn">
+  <component name="RunManager" selected="Application.HigherOrderMethodsTwo">
     <configuration name="HigherOrderFn" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="demo.basics.HigherOrderMethods" />
+      <module name="ScalaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.basics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HigherOrderMethodsTwo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.basics.HigherOrderMethodsTwo" />
       <module name="ScalaBasics" />
       <extension name="coverage">
         <pattern>
@@ -287,19 +316,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sets" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="demo.basics.collections.Sets" />
-      <module name="ScalaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo.basics.collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Tuples" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="demo.basics.Tuples" />
       <module name="ScalaBasics" />
@@ -323,20 +339,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Sets" />
       <item itemvalue="Application.Maps" />
       <item itemvalue="Application.Tuples" />
       <item itemvalue="Application.Options" />
       <item itemvalue="Application.HigherOrderFn" />
+      <item itemvalue="Application.HigherOrderMethodsTwo" />
       <item itemvalue="Scala Console.ScalaBasics" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HigherOrderMethodsTwo" />
         <item itemvalue="Application.HigherOrderFn" />
         <item itemvalue="Application.Options" />
         <item itemvalue="Application.Tuples" />
         <item itemvalue="Application.Maps" />
-        <item itemvalue="Application.Sets" />
       </list>
     </recent_temporary>
   </component>
@@ -390,12 +406,13 @@
       <workItem from="1556075227660" duration="2476000" />
       <workItem from="1556128501379" duration="3564000" />
       <workItem from="1556212088596" duration="2750000" />
-      <workItem from="1556217658640" duration="291000" />
+      <workItem from="1556217658640" duration="1064000" />
+      <workItem from="1556258222621" duration="236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18244000" />
+    <option name="totallyTimeSpent" value="19274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -628,10 +645,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderFn.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderMethods.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/demo/basics/HigherOrderMethodsTwo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
         </state>
       </provider>
     </entry>

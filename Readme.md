@@ -128,3 +128,12 @@ ___
     * .flatten
     * .flatmap
     * .filter
+    * .reduce
+    * .reduceLeft
+    * .reduceRight
+    * .fold
+    * .foldLeft
+    * .foldRight
+    * .scan
+    * .scanLeft
+    * .scanRight
