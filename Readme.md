@@ -139,3 +139,11 @@ ___
     * .scanRight
   * Class
   * Auxillary Class
+  * Inheritence
+    * extends => class
+    * with => trait
+  * Abstract Class
+  * Lazy Evaluation
+    * lazy
+    * : => [param]
+  * Trait
