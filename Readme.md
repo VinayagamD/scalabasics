@@ -137,3 +137,5 @@ ___
     * .scan
     * .scanLeft
     * .scanRight
+  * Class
+  * Auxillary Class
